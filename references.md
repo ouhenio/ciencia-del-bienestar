@@ -1,6 +1,11 @@
-# Referencias
+# :books: Referencias
 
-El objetivo de este README es ir recopilando las referencias mencionadas durante las clases del curso IIC100G-1 (En Búsqueda del Bienestar).
+El objetivo de este documento es ir recopilando las referencias mencionadas durante las clases del curso **IIC100G-1 (En Búsqueda del Bienestar)**.
+
+## Tabla de contenidos
+
+- [Clase 2](#clase-2)
+- [Clase 3](#clase-3)
 
 ## Clase 2
 
